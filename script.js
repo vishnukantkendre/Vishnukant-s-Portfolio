@@ -13,3 +13,6 @@ if (viewportWidth <= 992) {
   // Hide the contact section
   document.querySelector(".contact").style.display = "none";
 }
+else{
+  console.log();
+}

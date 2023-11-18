@@ -347,7 +347,7 @@ border-left: 2px solid #00abf0;
 .education-box .education-content{
     position: relative;
     padding-left: 20px;
-
+    height: 150px;
 }
 .education-content .content{
     position: relative;
